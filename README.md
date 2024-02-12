@@ -26,9 +26,11 @@ On a scale of 1-10 the survey takers rate their satisfaction with their salary a
 ![Average Salary By Job Title](https://github.com/YVandana/Professional-Data-Analysis/assets/80910772/84886fdc-7420-4d9c-a20d-b30661528d8a)
 - A Stacked Column Chart was used to denote the Programming Language used given the Job Title.
 - Two gauges were added to represent the average satisfaction of the survey taker with respect to their Salary and Work/Life-Balance.
+
 ![Satisfaction With Work Life Balance](https://github.com/YVandana/Professional-Data-Analysis/assets/80910772/d6479575-6b18-49b2-a437-8b417f6ba430)
 
 ![Satisfaction With Salary](https://github.com/YVandana/Professional-Data-Analysis/assets/80910772/9f4ef86b-b9bf-4f12-be68-c3254b4114f9)
+
 - A donut chart was added to account for how easy the survey takers found breaking into the field of Data Science.
 - The canvas was then adjusted to look appealing and the colours, font and visual details were adjusted to make the dashboard palatable to the eyes.
 - A mobile canvas was created subsequently to adjust for a mobile view.
