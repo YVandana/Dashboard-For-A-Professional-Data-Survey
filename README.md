@@ -72,4 +72,27 @@ Difficulty of Breaking Into Data
         India = 73
         UK = 40
         Canada = 32
-        Other = 224
+        Other = 221
+        
+## Repository Structure
+- PBIX File: Download .pbix file from the repository to work in Power BI (Recommended to download Power BI from Microsoft Store for Regular Upadtea)
+- LICENSE: This file contains the license information for the project.
+
+## Getting Started
+To get started with the project, follow these steps:
+1. Explore the readme to understand the project.
+3. Explore and Manipulate to make your own dashboard
+
+## Contribution Guidelines
+If you wish to contribute to this project, you can follow these guidelines:
+1. Fork the repository.
+2. Create a new branch for your contribution: git checkout -b feature/your-feature
+3. Make your changes and commit them: git commit -m "Add your message"
+4. Push the changes to your forked repository: git push origin feature/your-feature
+5. Open a pull request, describing your changes and their purpose.Please ensure that your contributions align with the project's goals and follow the coding conventions and best practices.
+
+## License
+This project is licensed under the GNU License.
+
+## Contact Information
+If you have any questions or suggestions regarding this project, please feel free to contact the project maintainer.
